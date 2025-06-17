@@ -1,0 +1,157 @@
+[
+  {
+    "Id": 1,
+    "title": "Modern Luxury Villa with Pool",
+    "price": 850000,
+    "address": "1234 Sunset Boulevard, Beverly Hills, CA 90210",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "squareFeet": 3200,
+    "propertyType": "Villa",
+    "images": [
+      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&h=600&fit=crop"
+    ],
+    "description": "Stunning modern villa featuring an open-concept design with floor-to-ceiling windows, gourmet kitchen with premium appliances, and a resort-style backyard with pool and spa. Located in the prestigious Beverly Hills area with breathtaking city views.",
+    "features": [
+      "Swimming Pool",
+      "Spa/Hot Tub",
+      "Gourmet Kitchen", 
+      "City Views",
+      "Walk-in Closets",
+      "Home Theater",
+      "Wine Cellar",
+      "3-Car Garage"
+    ],
+    "coordinates": {
+      "lat": 34.0736,
+      "lng": -118.4004
+    },
+    "yearBuilt": 2019,
+    "isFavorite": false
+  },
+  {
+    "Id": 2,
+    "title": "Contemporary Downtown Condo",
+    "price": 450000,
+    "address": "567 Main Street, Downtown Los Angeles, CA 90012",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFeet": 1200,
+    "propertyType": "Condo",
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&h=600&fit=crop"
+    ],
+    "description": "Sleek contemporary condo in the heart of downtown with floor-to-ceiling windows offering stunning city views. Features modern finishes, stainless steel appliances, and access to luxury building amenities including rooftop pool and fitness center.",
+    "features": [
+      "City Views",
+      "Rooftop Pool",
+      "Fitness Center",
+      "Concierge Service",
+      "In-unit Laundry",
+      "Balcony",
+      "Parking Space"
+    ],
+    "coordinates": {
+      "lat": 34.0522,
+      "lng": -118.2437
+    },
+    "yearBuilt": 2020,
+    "isFavorite": true
+  },
+  {
+    "Id": 3,
+    "title": "Charming Craftsman House",
+    "price": 675000,
+    "address": "890 Oak Avenue, Pasadena, CA 91101",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFeet": 1800,
+    "propertyType": "House",
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&h=600&fit=crop"
+    ],
+    "description": "Beautiful craftsman-style home with original hardwood floors, built-in cabinetry, and period details throughout. The home features a spacious front porch, updated kitchen, and large backyard perfect for entertaining.",
+    "features": [
+      "Hardwood Floors",
+      "Front Porch",
+      "Updated Kitchen",
+      "Large Backyard",
+      "Built-in Cabinetry",
+      "Period Details",
+      "2-Car Garage"
+    ],
+    "coordinates": {
+      "lat": 34.1478,
+      "lng": -118.1445
+    },
+    "yearBuilt": 1925,
+    "isFavorite": false
+  },
+  {
+    "Id": 4,
+    "title": "Oceanview Apartment Complex",
+    "price": 320000,
+    "address": "456 Pacific Coast Highway, Santa Monica, CA 90401",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "squareFeet": 750,
+    "propertyType": "Apartment",
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&h=600&fit=crop"
+    ],
+    "description": "Bright and airy apartment with stunning ocean views just steps from the beach. Features an open floor plan, modern kitchen, and private balcony overlooking the Pacific Ocean. Perfect for beach lovers and professionals.",
+    "features": [
+      "Ocean Views",
+      "Private Balcony",
+      "Beach Access",
+      "Modern Kitchen",
+      "Open Floor Plan",
+      "Assigned Parking"
+    ],
+    "coordinates": {
+      "lat": 34.0195,
+      "lng": -118.4912
+    },
+    "yearBuilt": 2018,
+    "isFavorite": true
+  },
+  {
+    "Id": 5,
+    "title": "Elegant Townhouse Community",
+    "price": 550000,
+    "address": "123 Maple Lane, Glendale, CA 91205",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "squareFeet": 1600,
+    "propertyType": "Townhouse",
+    "images": [
+      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&h=600&fit=crop"
+    ],
+    "description": "Elegant three-story townhouse in a gated community with modern amenities and traditional charm. Features include granite countertops, stainless steel appliances, and a private patio. Community amenities include pool and playground.",
+    "features": [
+      "Gated Community",
+      "Private Patio",
+      "Granite Countertops",
+      "Stainless Appliances",
+      "Community Pool",
+      "Playground",
+      "Attached Garage"
+    ],
+    "coordinates": {
+      "lat": 34.1425,
+      "lng": -118.2551
+    },
+    "yearBuilt": 2021,
+    "isFavorite": false
+  }
+]
